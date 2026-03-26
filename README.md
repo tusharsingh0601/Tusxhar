@@ -11,10 +11,9 @@
 -🛠 Tech Stack
 
 Here are some technologies I work with or currently learning :
-Languages: C ,C++ ,Python
-Frontend: HTML, CSS
+Languages: C ,C++ ,Python, SQL
+Data Scienc: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+Frameworks: Django
 Databases: MySQL
-<!---
-Tusxhar/Tusxhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tools & Platforms: Tableau, Weka, Google Colab, Jupyter Notebook, VS Vode, MS-Office
+Frontend: HTML, CSS, JS
