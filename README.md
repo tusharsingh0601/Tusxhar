@@ -3,8 +3,7 @@
 <!---🚀 About Me🔭 I’m currently working on: [your current projects or focus]-->
 -🏤 I'm currently pursuing : B.Tech in Computer Science and Engineering with Specialisation in Data Science from Indore Institute of science and Technology (IIST), Indore  
 -🌱 I’m currently exploring: Technologies in AIML & Data Science  
--👯 I’m looking to collaborate on : Projects that focuses on Real-World Problems  
--💬 You can Ask me about :   
+-👯 I’m looking to collaborate on : Projects that focuses on Real-World Problems    
 -📫 How to reach me : via LinkedIn (mentioned in my Profile) and offcourse you can contact me on GitHub as well  
 -⚡ Fun fact : I love listening Gossips about others  
   
